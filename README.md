@@ -2,7 +2,7 @@
 <h3 align="">About me</h3>
 
 - Python developer, Russia 🇷🇺
-- Focus on scalable backend systems 💻
+- Focus Areas: Python, Web Development, APIs, Databases 💻
 - Love networking and developing myself 🚀
 
 <div id="header" align=""> 
@@ -25,13 +25,6 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 
-### Some stats
-
-<!--
-Easter egg:
-<div id="header" align="">
-  <img src="https://media.giphy.com/media/mcsPU3SkKrYDdW3aAU/giphy.gif" width="64"/>  
-</div>
-
-Уютное кафе...
--->
+### Goals
+- Write efficient, clean code and stay updated with backend technologies
+- To grow into a Senior Backend Developer role
