@@ -29,4 +29,4 @@
 - Write efficient, clean code and stay updated with backend technologies
 - To grow into a Senior Backend Developer role
 
-[![Codewars](https://github.r2v.ch/codewars?user=L1inkoln&hide_clan=true&top_languages=true&stroke=black&theme=gradient_midnight_puple_by_level)] (https://www.codewars.com/users/L1inkoln)
+[![Codewars](https://github.r2v.ch/codewars?user=L1inkoln&hide_clan=true&top_languages=true&stroke=black&theme=gradient_midnight_puple_by_level)](https://www.codewars.com/users/L1inkoln)
